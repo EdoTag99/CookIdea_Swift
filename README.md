@@ -19,10 +19,10 @@ The repository contains the iOS application code, entirely written in Swift.
 
 ## Installation
 1. **Open the Backend Python project**
-   - Start the Main.py file
-   ```bash
-   python Main.py
-   ```
+   - Run the Main.py file
+      ```bash
+      python Main.py
+      ```
 
 2. **Open the XCode project**:
    - Navigate to the project directory and open `CookIdea.xcodeproj` in Xcode.
