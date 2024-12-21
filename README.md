@@ -10,7 +10,7 @@
 
 ## Project Structure
 
-The repository contains the iOS application code, entirely written in Swift.
+The repository contains the iOS application code, entirely written in Swift and the Backend code entirely written in Python
 
 ## Requirements
 
